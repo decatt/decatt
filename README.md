@@ -1,4 +1,4 @@
 major in reinforcement learning
-- Hierarchical Reinforcement Learning
-- Distributed Reinforcement Learning
-- Game AI
+- Hierarchical reinforcement learning
+- Policy gradient algorithm
+- Generalization of reinforcement learning
